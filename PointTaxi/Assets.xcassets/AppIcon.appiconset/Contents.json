@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "telegram-cloud-photo-size-2-5399951859323618016-y.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
